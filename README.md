@@ -1,9 +1,10 @@
-# 1 Sou aluno do 1 ano do ensino medio, meu nome e Fernando Gustavo da Silva 
+# 1 Fernando 
+Sou aluno do 1 ano do ensino medio, meu nome e Fernando Gustavo da Silva
 estudo no Antonio dorigon, rua xv de novembro, eu moro perto do manchur 
 gosto de jogar bola e de sair com os amigos jogar volei 
 eu trabalho como garçon e gosto muito de trablhar, trabalho na atleticanas pizzas.
 
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1tMTVzZjQ2ZXcyb2ZnOGt6dWRsOW9sM3VoMndleGNyYXp4dDB6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nxixvW5krNTKLVOKDp/giphy.gif)
+![](https://media.giphy.com/media/JoHCsfie23fag/giphy.gif?cid=82a1493b19xo4hys057tt4a86zd8wm6kkj94j9yj3ggqxcbj&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
 
 
 
